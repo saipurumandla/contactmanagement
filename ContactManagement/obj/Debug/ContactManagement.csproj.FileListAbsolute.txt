@@ -1,0 +1,9 @@
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\bin\Debug\ContactManagement.exe.config
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\bin\Debug\ContactManagement.exe
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\bin\Debug\ContactManagement.pdb
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\obj\Debug\ContactManagement.csprojResolveAssemblyReference.cache
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\obj\Debug\ContactManagement.Form1.resources
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\obj\Debug\ContactManagement.Properties.Resources.resources
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\obj\Debug\ContactManagement.csproj.GenerateResource.Cache
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\obj\Debug\ContactManagement.exe
+c:\users\harin\documents\visual studio 2017\Projects\ContactManagement\ContactManagement\obj\Debug\ContactManagement.pdb
